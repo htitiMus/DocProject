@@ -8,7 +8,6 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @SpringBootApplication
 public class ATestServiceConfigApplication {
 
-	//test Commit
 	public static void main(String[] args) {
 		SpringApplication.run(ATestServiceConfigApplication.class, args);
 	}
